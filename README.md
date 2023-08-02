@@ -68,11 +68,11 @@ In designing the neural network, careful consideration was used to strike the id
 • To introduce non-linearity into the network, the 'relu' activation function was used for the first and second hidden layers. The 'sigmoid' activation function was used for the output layer, which aligns with our binary classification problem.
 
 ### Were you able to achieve the target model performance?
-On our first attempt, an accuracy of 73.27% was achieved. 
+On our first attempt, an accuracy of 73.27% was achieved as shown below. 
 
 ![column](images/firstoutput.png)
 
-By incorporating the 'NAME', applying appropriate binning techniques, model performance improved. Through experimentation, an accuracy of 78.83% was achieved in the end. 
+By incorporating the 'NAME', applying appropriate binning techniques, model performance improved. Through experimentation, an accuracy of 78.83% was achieved in the end as shown below. 
 
 ![column](images/secondoutput.png)
 
