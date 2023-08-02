@@ -7,22 +7,28 @@ In this deep learning challenge, the primary objective is to develop a powerful 
 # Files in Repository
 
 - **AlphabetSoupCharity.ipynb**
-  This is the original Jupyter Notebook file that contains the code for the first model implementation.
+ 
+   -This is the original Jupyter Notebook file that contains the code for the first model implementation.
 
 - **AlphabetSoupCharity.h5**
-  This H5 file contains the original model saved after training.
+  
+   -This H5 file contains the original model saved after training.
 
 - **AlphabetSoupCharity_Optimization.ipynb**
-  This Jupyter Notebook file represents the modified version of the original code with optimizations to achieve the 75% threshold requirement.
+  
+   -This Jupyter Notebook file represents the modified version of the original code with optimizations to achieve the 75% threshold requirement.
 
 - **AlphabetSoupCharity_Optimization.h5**
-  This H5 file corresponds to the optimized version of the model, saved after training with the improvements you made.
+  
+   -This H5 file corresponds to the optimized version of the model, saved after training with the improvements you made.
 
 - **Written Analysis.pdf**
-  This file contains the written report on the Neural Network Model, providing a detailed analysis of the project.
+  
+   -This file contains the written report on the Neural Network Model, providing a detailed analysis of the project.
 
 - **images**
-  This contains images for the preprocessing, compiling, training, evaluation, and optimizing the model.
+  
+   -This contains images for the preprocessing, compiling, training, evaluation, and optimizing the model.
 
 # Data Preprocessing
 
