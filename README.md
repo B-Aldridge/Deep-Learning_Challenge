@@ -49,7 +49,7 @@ The features include:
 - ASK_AMT: Funding amount requested.
 - IS_SUCCESSFUL: Was the money used effectively.
 
-### What variable(s) should be removed from the input data because they are neither targets nor features?
+### What variable(s) should be removed from the input data because they are neither targets/ features?
 Two irrelevant variables were removed: 'EIN' (Employer Identification Number) and 'NAME'. These columns served solely for identification purposes and did not contribute to the predictive power of the model.
 
 ![column](images/dropcolumns.png)
