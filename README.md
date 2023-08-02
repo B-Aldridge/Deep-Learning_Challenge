@@ -50,14 +50,14 @@ The features include:
 - IS_SUCCESSFUL: Was the money used effectively.
 
 ### What variable(s) should be removed from the input data because they are neither targets/ features?
-Two irrelevant variables were removed: 'EIN' (Employer Identification Number) and 'NAME'. These columns served solely for identification purposes and did not contribute to the predictive power of the model.
+Two irrelevant variables were removed: 'EIN' (Employer Identification Number) and 'NAME'. These columns served solely for identification purposes and did not contribute to the predictive power of the model originally as seen below.
 
 ![column](images/dropcolumns.png)
 
 # Compiling, Training, and Evaluating the Model
 
 ### How many neurons, layers, and activation functions did you select for your neural network model, and why?
-In designing the neural network, careful consideration was used to strike the ideal balance between complexity and avoiding overfitting. After an analysis of the data, we opted for a three-layer architecture.
+In designing the neural network, careful consideration was used to strike the ideal balance between complexity and avoiding overfitting. After an analysis of the data, we opted for a three-layer architecture as seen below.
 
 ![column](images/originalmodel.png)
 
