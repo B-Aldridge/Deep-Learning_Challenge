@@ -2,7 +2,7 @@
 
 # Overview of the Analysis: 
 
-In this deep learning challenge, the primary objective is to develop a powerful predictive model using a deep neural network to determine the success of funding requests made by charitable organizations. The analysis aims to use data from the 'charity_data.csv' file to train the model and make predictions.
+In this deep learning challenge, the primary objective is to develop a powerful predictive model using a deep neural network to determine the success of funding requests made by charitable organizations. The analysis aims to use data from the 'charity_data.csv' file to train the model and make predictions. Starter code was used from the Bootcamp.
 
 # Files in Repository
 
